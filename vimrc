@@ -13,4 +13,4 @@ nnoremap <silent> ]b :bnext<CR>
 nnoremap <silent> [B :bfirst<CR>
 nnoremap <silent> [B :blast<CR>
 
-set runtimepath^=~/.vim/bundle/ctrlp.vim
+#set runtimepath^=~/.vim/bundle/ctrlp.vim
